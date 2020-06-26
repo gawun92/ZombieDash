@@ -1,0 +1,8 @@
+﻿  Actor.cpp
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+  Generating Code...
+C:\Users\Gawun Kim   (김가운)\Desktop\좀비 수정판\ZombieDash\ZombieDash\Actor.cpp(200,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  ZombieDash.vcxproj -> C:\Users\Gawun Kim   (김가운)\Desktop\좀비 수정판\ZombieDash\Debug\ZombieDash.exe
